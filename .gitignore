@@ -1,3 +1,10 @@
+# This repository specific
+.ipynb_checkpoints
+*.ipynb
+data/
+notebook/
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
